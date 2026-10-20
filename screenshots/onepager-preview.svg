@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 850" width="1000" height="850">
+  <defs>
+    <style>
+      .app-bg { fill: #040711; }
+      .sheet-bg { fill: #ffffff; stroke: #cbd5e1; stroke-width: 1.5; rx: 8; }
+      .title-txt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 24px; font-weight: 900; fill: #0f172a; }
+      .sub-txt { font-family: sans-serif; font-size: 12px; fill: #475569; }
+      .card-box { fill: #f8fafc; stroke: #e2e8f0; stroke-width: 1; rx: 6; }
+      .card-hdr { font-family: sans-serif; font-size: 10px; font-weight: 800; fill: #64748b; letter-spacing: 0.5px; }
+      .card-body { font-family: sans-serif; font-size: 11px; fill: #1e293b; line-height: 1.5; }
+      .m-box { fill: #0f172a; rx: 6; }
+      .m-lbl { font-family: sans-serif; font-size: 9px; font-weight: 700; fill: #94a3b8; text-anchor: middle; text-transform: uppercase; }
+      .m-val { font-family: sans-serif; font-size: 16px; font-weight: 900; fill: #38bdf8; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect class="app-bg" width="1000" height="850" />
+
+  <!-- 1-Pager Sheet Canvas -->
+  <rect class="sheet-bg" x="80" y="45" width="840" height="760" />
+
+  <!-- Header -->
+  <g transform="translate(120, 85)">
+    <text class="title-txt" x="0" y="20">OmniAgent AI</text>
+    <text class="sub-txt" x="0" y="40">Autonomous Full-Stack Engineering Agents for Enterprise Cloud Operations</text>
+    <rect fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" x="590" y="5" width="170" height="24" rx="4" />
+    <text font-family="sans-serif" font-size="10.5" font-weight="700" fill="#334155" x="675" y="21" text-anchor="middle">Seed Round • Delaware, USA</text>
+    <line x1="0" y1="56" x2="760" y2="56" stroke="#0f172a" stroke-width="1.5" />
+  </g>
+
+  <!-- Problem & Solution Grid -->
+  <g transform="translate(120, 160)">
+    <rect class="card-box" width="370" height="80" />
+    <text class="card-hdr" x="15" y="20">THE PROBLEM</text>
+    <text class="card-body" x="15" y="40">Enterprises lose over $120B annually in developer downtime resolving cloud misconfigurations</text>
+    <text class="card-body" x="15" y="58">and migration bottlenecks. Senior DevOps engineers are scarce and cost $220k+/yr.</text>
+
+    <g transform="translate(390, 0)">
+      <rect fill="#f0fdf4" stroke="#86efac" stroke-width="1" width="370" height="80" rx="6" />
+      <text font-family="sans-serif" font-size="10" font-weight="800" fill="#15803d" x="15" y="20">THE SOLUTION</text>
+      <text class="card-body" x="15" y="40">OmniAgent deploys deterministic, sandboxed autonomous AI agents that identify root causes,</text>
+      <text class="card-body" x="15" y="58">test fixes in staging clusters, and open validated pull requests within 60 seconds.</text>
+    </g>
+  </g>
+
+  <!-- Metrics Grid -->
+  <g transform="translate(120, 260)">
+    <rect class="m-box" x="0" width="175" height="55" />
+    <text class="m-lbl" x="87" y="20">TOTAL MARKET (TAM)</text>
+    <text class="m-val" x="87" y="42">$48 Billion</text>
+
+    <rect class="m-box" x="195" width="175" height="55" />
+    <text class="m-lbl" x="282" y="20">SERVICEABLE (SOM)</text>
+    <text class="m-val" x="282" y="42">$4.5 Billion</text>
+
+    <rect class="m-box" x="390" width="175" height="55" />
+    <text class="m-lbl" x="477" y="20">UNIT ARPU</text>
+    <text class="m-val" x="477" y="42">$2,500 / mo</text>
+
+    <rect class="m-box" x="585" width="175" height="55" />
+    <text class="m-lbl" x="672" y="20">TARGET RAISE</text>
+    <text class="m-val" fill="#10b981" x="672" y="42">$2.5M Seed</text>
+  </g>
+
+  <!-- Traction & Business Model -->
+  <g transform="translate(120, 335)">
+    <rect class="card-box" width="370" height="80" />
+    <text class="card-hdr" x="15" y="20">TRACTION &amp; VALIDATION</text>
+    <text class="card-body" x="15" y="40">$42,000 MRR (34% MoM organic growth), 14 Fortune 500 pilots in active staging,</text>
+    <text class="card-body" x="15" y="58">and 850 enterprise engineers on developer waitlist.</text>
+
+    <g transform="translate(390, 0)">
+      <rect class="card-box" width="370" height="80" />
+      <text class="card-hdr" x="15" y="20">BUSINESS MODEL &amp; PRICING</text>
+      <text class="card-body" x="15" y="40">Usage-tiered B2B subscription based on active worker nodes and automated PR merge volume</text>
+      <text class="card-body" x="15" y="58">with enterprise annual contract commitments.</text>
+    </g>
+  </g>
+
+  <!-- Moat & The Ask -->
+  <g transform="translate(120, 435)">
+    <rect class="card-box" width="370" height="85" />
+    <text class="card-hdr" x="15" y="20">COMPETITIVE MOAT &amp; DEFENSIBILITY</text>
+    <text class="card-body" x="15" y="40">Proprietary deterministic execution graph, patent-pending automated sandbox verifier,</text>
+    <text class="card-body" x="15" y="58">and zero data exfiltration enterprise compliance guarantee.</text>
+
+    <g transform="translate(390, 0)">
+      <rect class="card-box" width="370" height="85" />
+      <text class="card-hdr" x="15" y="20">THE FINANCIAL ASK &amp; USE OF FUNDS</text>
+      <text class="card-body" x="15" y="40">Raising <b>$2,500,000 Seed</b> for <b>18 months</b> runway:</text>
+      <text class="card-body" x="15" y="58">60% Core R&amp;D/Engineering, 25% Enterprise GTM, 15% Operations.</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(120, 545)">
+    <line x1="0" y1="0" x2="760" y2="0" stroke="#e2e8f0" stroke-width="1" />
+    <text font-family="sans-serif" font-size="11" fill="#475569" x="0" y="20">Founders: <b>Alex Rivera (Ex-Google Brain) &amp; Priya Patel (Ex-Stripe)</b></text>
+    <text font-family="sans-serif" font-size="11" fill="#10b981" font-weight="800" x="760" y="20" text-anchor="end">INVESTOR READINESS SCORE: 100/100 (INVESTOR READY)</text>
+  </g>
+</svg>

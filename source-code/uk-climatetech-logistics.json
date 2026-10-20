@@ -1,0 +1,19 @@
+{
+  "companyName": "VerdantRoute UK",
+  "tagline": "AI-Powered Fleet Route Optimization & Real-Time Carbon Inset Ledger",
+  "stage": "Seed EIS",
+  "jurisdiction": "London, England, United Kingdom",
+  "website": "https://verdantroute.co.uk",
+  "problem": "UK and European freight logistics operators face severe EU Scope 3 emissions penalties and high diesel costs, losing 18% of route efficiency due to static, uncalibrated legacy telematics.",
+  "solution": "VerdantRoute uses predictive traffic machine learning and dynamic payload weighting to reduce commercial fleet fuel consumption by 19.4% while generating audit-grade verified carbon certificates for HMRC compliance.",
+  "tam": "£18 Billion",
+  "som": "£1.9 Billion",
+  "targetShare": "£25M ARR by Year 4",
+  "arpu": "£65 / vehicle / month",
+  "businessModel": "Per-vehicle telematics SaaS subscription plus 10% brokerage commission on verified green logistics insets.",
+  "traction": "1,450 heavy commercial vehicles under management, £28k MRR, commercial partnership with Royal Mail logistics contractor.",
+  "moat": "Proprietary real-time diesel combustion telemetry models, UK DEFRA approved carbon accounting ledger.",
+  "founders": "Oliver Thorne (Ex-Jaguar Land Rover Telematics Lead) & Dr. Emily Zhao (Cambridge Logistics & Operations PhD).",
+  "targetRaise": "£1,200,000 Seed",
+  "runwayMonths": 18
+}

@@ -1,0 +1,19 @@
+{
+  "companyName": "OmniAgent AI",
+  "tagline": "Autonomous Full-Stack Engineering Agents for Enterprise Cloud Operations",
+  "stage": "Seed Round",
+  "jurisdiction": "State of Delaware, United States",
+  "website": "https://omniagent.ai",
+  "problem": "Enterprises lose over $120B annually in developer downtime resolving repetitive cloud infrastructure misconfigurations, API breaking changes, and migration bottlenecks. Senior DevOps engineers are scarce and cost $220k+/yr.",
+  "solution": "OmniAgent deploys deterministic, sandboxed autonomous AI agents that identify incident root causes, test fixes in isolated staging clusters, and open validated pull requests within 60 seconds of anomaly detection.",
+  "tam": "$48 Billion",
+  "som": "$4.5 Billion",
+  "targetShare": "$85M ARR by Year 3",
+  "arpu": "$2,500 / month per engineering cluster",
+  "businessModel": "Usage-tiered B2B subscription based on active worker nodes and automated PR merge volume.",
+  "traction": "$42,000 MRR (34% MoM organic growth), 14 Fortune 500 pilots in active staging, 850 developers on waitlist.",
+  "moat": "Proprietary deterministic execution graph, patent-pending automated sandbox verifier, zero data exfiltration guarantee.",
+  "founders": "Alex Rivera (Ex-Google Brain Tech Lead, Stanford CS PhD) & Priya Patel (Ex-Stripe Infrastructure Director, 2x Founder).",
+  "targetRaise": "$2,500,000 Seed",
+  "runwayMonths": 18
+}

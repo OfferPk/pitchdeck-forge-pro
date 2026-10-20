@@ -1,0 +1,19 @@
+{
+  "companyName": "Oasis Pay MENA",
+  "tagline": "Central Bank Regulated Instant Remittances & Corporate Treasury Rails",
+  "stage": "Pre-Series A",
+  "jurisdiction": "DIFC / Dubai, United Arab Emirates",
+  "website": "https://oasispay.ae",
+  "problem": "Cross-border B2B corporate payments across the GCC and South Asia suffer 3-5 day settlement delays and 4-6% hidden FX markups, trapping $18B in working capital for UAE trading and logistics conglomerates.",
+  "solution": "Oasis Pay connects directly to the UAE Central Bank AANI instant transfer network and regional RTGS rails to enable real-time sub-second dirham settlements at 0.45% flat transaction fees.",
+  "tam": "$32 Billion",
+  "som": "$3.8 Billion",
+  "targetShare": "$60M Net Revenue by 2029",
+  "arpu": "$1,200 / month corporate retainer + 0.45% FX margin",
+  "businessModel": "B2B SaaS subscription for treasury portal plus dynamic basis-point FX spread on high-volume corridor transactions.",
+  "traction": "AED 120M ($32.6M) annualized transaction volume, licensed under DIFC DFSA Sandbox, 45 corporate merchants onboarded.",
+  "moat": "Direct AANI regulatory integration, proprietary bilateral banking corridors with India and Philippines, UAE PASS biometric sign-in.",
+  "founders": "Tariq Al-Mansoor (Ex-Emirates NBD Head of Treasury) & Sarah Jenkins (Ex-Revolut Head of Compliance MENA).",
+  "targetRaise": "$3,000,000 Pre-Series A",
+  "runwayMonths": 24
+}
